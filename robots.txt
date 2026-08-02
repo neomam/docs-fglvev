@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-z7vcz9.agen692gcv.cyou/sitemap.xml
